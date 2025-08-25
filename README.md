@@ -2,7 +2,7 @@
 ► <b>Indie game developer ► 22y</b> <br>
 ► I'm a game programmer and software engineer focused on building gameplay systems for games , I'm a computer science student ans passionate about technology and anything about programming<br><br>
 <img src="https://img1.picmix.com/output/stamp/normal/1/6/5/0/1930561_979af.gif" width="320" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiuw&hide=javascript,css,scss,hide_border=true,html&theme=tokyonight) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiuw&hide=scss,html&theme=tokyonight&hide_border=true) <br>
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
