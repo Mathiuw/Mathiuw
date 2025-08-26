@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=383CD2&vCenter=true&width=430&height=20&lines=Hello!!+I'm+Mateus++Sartori.)](https://git.io/typing-svg) <br>
-► <b>Indie game developer ► 22y</b> <br>
+► <b>Indie game developer</b> <br>
 ► I'm a game programmer and software engineer focused on building gameplay systems for games , I'm a computer science student and passionate about technology and anything about programming<br><br>
 <img src="https://img1.picmix.com/output/stamp/normal/1/6/5/0/1930561_979af.gif" width="320" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiuw&hide=scss,html&theme=tokyonight&hide_border=true) <br>
