@@ -1,5 +1,5 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnc2htMG1kZ3c4NGJyNTVnMnY3Ync5b2J2ZWV6enFka3lzcDluaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26DN7Xu6hWNn6h7ry/giphy.gif" width="4%"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=503FF7&center=true&vCenter=true&width=435&lines=Hello!!+I'm+Mateus+Sartori.)](https://git.io/typing-svg) <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnc2htMG1kZ3c4NGJyNTVnMnY3Ync5b2J2ZWV6enFka3lzcDluaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26DN7Xu6hWNn6h7ry/giphy.gif" width="4%"> <br>
-► <b>Backend Developer and Tech Artist</b> <br>
+► <b>Fullstack Developer and Tech Artist</b> <br>
 ► Computer science graduate who loves to create things, I'm passionate about technology and anything about programming and digital art<br>
 <h1> </h1>
 <br>
