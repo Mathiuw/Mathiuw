@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=383CD2&vCenter=true&width=430&height=20&lines=Hello!!+I'm+Mateus++Sartori.)](https://git.io/typing-svg) <br>
-► <b>Software Developer</b> <br>
-► I'm a game programmer and software engineer focused on building gameplay systems for games , I'm passionate about technology and anything about programming<br><br>
+<img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=503FF7&center=true&vCenter=true&width=435&lines=Hello!!+I'm+Mateus+Sartori.)](https://git.io/typing-svg) <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> <br>
+► <b>Backend Developer and Tech Artist</b> <br>
+► Computer science graduate who loves to create things, I'm passionate about technology and anything about programming and digital art<br>
+<h1> </h1>
+<br>
+
 <table>
   <tr>
     <td>
@@ -12,9 +15,9 @@
   </tr>
 </table>
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<h1> </h1>
+<br>
+
+► Langs and Frameworks that I use:<br>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,docker,html,css,cpp,cs,dotnet,unity,godot,blender)](https://skillicons.dev)
